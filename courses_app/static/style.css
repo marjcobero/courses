@@ -1,0 +1,18 @@
+body{
+    background-color: #C9D9F0;
+    margin: 5px;
+    padding: 8px;
+}
+form {
+    margin: 0 40px;
+}
+.messages {
+    color: #C39D5E;
+    font-weight: bold;
+}
+.button {
+    margin: 5px;
+    display:  block;
+    padding: 15px;
+    background-color: #9BB0CB ;
+}
